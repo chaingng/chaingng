@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="500"　src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaingng&hide=html,css&layout=compact" />
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center"　width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaingng&hide=html,css&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center"  width="500" src="https://github-readme-stats.vercel.app/api?username=chaingng&count_private=true&hide=prs&show_icons=true&include_all_commits=true" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=chaingng&count_private=true&hide=prs&show_icons=true&include_all_commits=true" />
 </a>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chaingng)](https://github.com/ryo-ma/github-profile-trophy)
+ -->
