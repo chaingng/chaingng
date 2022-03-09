@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaingng&count_private=true&hide=prs&show_icons=true&include_all_commits=true" />
 </a>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chaingng)](https://github.com/ryo-ma/github-profile-trophy)
