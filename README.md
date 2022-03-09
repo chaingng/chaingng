@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaingng&hide=html,css&layout=compact" />
+  <img align="center" width="500"　src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaingng&hide=html,css&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaingng&count_private=true&hide=prs&show_icons=true&include_all_commits=true" />
+  <img align="center"  width="500" src="https://github-readme-stats.vercel.app/api?username=chaingng&count_private=true&hide=prs&show_icons=true&include_all_commits=true" />
 </a>
 
 
