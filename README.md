@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaingng&hide=html,css&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaingng&count_private=true&hide=prs&show_icons=false&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaingng&count_private=true&hide=prs&show_icons=true&include_all_commits=true" />
 </a>
