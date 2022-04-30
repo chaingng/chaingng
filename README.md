@@ -1,4 +1,8 @@
+![](https://img.shields.io/badge/email-takatomo.honda.0103%40gmail.com-orange)
+
+
 <!-- ### Hi there 👋 -->
+
 
 <!--
 **chaingng/chaingng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
