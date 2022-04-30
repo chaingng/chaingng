@@ -1,7 +1,16 @@
-![](https://img.shields.io/badge/email-takatomo.honda.0103%40gmail.com-orange)
+## Nice to see ya here!
+[![](https://img.shields.io/badge/email-chngng0103%40gmail.com-red)](mailto:chngng0103@gmail.com)
 
 
-<!-- ### Hi there 👋 -->
+<!--
+<div>
+  <img align="left" width="35%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaingng&layout=compact">
+  <img align="right" width="60%" height="60%" src="https://github-readme-stats.vercel.app/api?username=chaingng&show_icons=true&count_private=true">
+</div>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chaingng)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 
 <!--
