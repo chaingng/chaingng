@@ -1,6 +1,7 @@
 ## Nice to see ya here!
 [![](https://img.shields.io/badge/email-chngng0103%40gmail.com-red)](mailto:chngng0103@gmail.com)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaingng&theme=vue)
 
 <!--
 <div>
