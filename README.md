@@ -3,6 +3,7 @@
 
 Books
 - 動かして学ぶ！Pythonサーバレスアプリ開発入門（[翔泳社](https://www.shoeisha.co.jp/book/detail/9784798169729))
+- ゼロからFlaskがよくわかる本（[kindle](https://www.amazon.co.jp/dp/B07F2X9GRQ)）
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaingng&theme=vue)
 
