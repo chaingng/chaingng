@@ -6,6 +6,8 @@ Books
 - ゼロからFlaskがよくわかる本（[kindle](https://www.amazon.co.jp/dp/B07F2X9GRQ) / [ペーパーバック](https://www.amazon.co.jp/dp/B09MYXVN8P)）
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaingng&theme=vue)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chaingng)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 <div>
@@ -41,5 +43,5 @@ Here are some ideas to get you started:
 </a>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chaingng)](https://github.com/ryo-ma/github-profile-trophy)
+
  -->
